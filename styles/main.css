@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Fredoka+One');
+nav div a{
+    font-family: 'Fredoka One', cursive;
+}
+.carousel{
+    background-color: rgb(51, 43, 43)
+}
+.carousel img{
+    height: 250px;
+}
+.card-image img{
+    width: 231px;
+    height: 300px;
+}
+.card .card-action a:not(.btn):not(.btn-large):not(.btn-floating) {
+    color: #405dff;
+    font-family: 'Fredoka One', cursive;
+}
+.card .card-content {
+    background-color: #405dff75
+}
+.card .card-content p {
+    font-family: 'Fredoka One', cursive;
+}
+.card .card-image .card-title {
+    font-family: 'Fredoka One', cursive;
+    color: white;
+    background-color: #405dff59
+}
